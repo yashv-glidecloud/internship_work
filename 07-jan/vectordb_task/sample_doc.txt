@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, learn, and make decisions. AI systems are designed to perform tasks such as problem-solving, pattern recognition, language understanding, and decision-making. Over the past decade, AI has evolved rapidly due to advancements in computing power, availability of large datasets, and improvements in machine learning algorithms.
+
+Machine Learning (ML) is a subset of AI that focuses on enabling machines to learn from data without being explicitly programmed. Instead of following fixed rules, ML models identify patterns in data and improve their performance over time. Common machine learning techniques include supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep Learning is a specialized branch of machine learning that uses neural networks with multiple layers, known as deep neural networks. These models are particularly effective in tasks such as image recognition, speech processing, and natural language understanding. Deep learning models require large amounts of data and computational resources, but they often achieve state-of-the-art results.
+
+In modern software systems, AI models are often exposed through APIs. Frameworks like FastAPI are commonly used to build these APIs because of their high performance and ease of use. FastAPI supports asynchronous request handling, which allows systems to efficiently serve multiple users at the same time.
+
+Vector databases play a crucial role in AI-powered applications. They store embeddings, which are numerical representations of text, images, or other data. These embeddings capture semantic meaning, enabling similarity-based search. When combined with embedding models and APIs, vector databases enable use cases such as semantic search, recommendation systems, and question-answering applications.
